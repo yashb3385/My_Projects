@@ -1,0 +1,14 @@
+Troop,Dragon(lvl.8),Electro(lvl.4),Dragon Rider(lvl.2),Balloon(lvl.9)
+DPS,330,330,370,256
+Hitpoints,4200,4500,4400,940
+DPH,412.5,1155,444,768
+Damage When Destroyed,0,570,800,322
+Death Damage Radius,0,4,2,1.2
+Range,3,3,4,0.5
+Movement Speed,16,13,20,10
+Space,20,30,25,5
+Damage Decay(%),0,20,100,0
+Total Targets,1,5,1,3
+Targets,Ground & Air,Ground & Air,Ground,Ground
+Preferred Target,Nothing,Nothing,Defenses,Defenses
+Attack Type,Splash,Chain,Single,Splash
