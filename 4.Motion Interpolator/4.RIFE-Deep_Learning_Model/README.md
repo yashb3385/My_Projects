@@ -9,18 +9,12 @@ This project develops and uses an AI/ML-based Optical Flow frame interpolation t
 ---
 ### GOES-19 ABI Channel 13 data from NOAA GOES-19 AWS bucket
 - [NOAA-GOES-19 Link](https://noaa-goes19.s3.amazonaws.com/index.html)
-<iframe src="https://noaa-goes19.s3.amazonaws.com/index.html" width="100%" height="500px"></iframe>
-
 $\hspace{1cm}$
 - [NOAA-GOES-19 ABI-L1b-RadF Link](https://noaa-goes19.s3.amazonaws.com/index.html#ABI-L1b-RadF/)
-<iframe src="https://noaa-goes19.s3.amazonaws.com/index.html#ABI-L1b-RadF/" width="100%" height="500px"></iframe>
 ### INSAT-3DS/3DR TIR1 channel data from mosdac
 - [INSAT-3DR Link](https://mosdac.gov.in/catalog-app/satellite?mission=INSAT-3DR)
-<iframe src="https://mosdac.gov.in/catalog-app/satellite?mission=INSAT-3DR" width="100%" height="500px"></iframe>
-
 $\hspace{1cm}$
 - [INSAT-3DS Link](https://mosdac.gov.in/catalog-app/satellite?mission=INSAT-3DS)
- <iframe src="https://mosdac.gov.in/catalog-app/satellite?mission=INSAT-3DS" width="100%" height="500px"></iframe>
 ## Dataset Used
 ---
 This project utilizes satellite imagery obtained from the ***NOAA GOES-19*** AWS bucket ([NOAA-GOES-19 ABI-L1b-RadF](https://noaa-goes19.s3.amazonaws.com/index.html#ABI-L1b-RadF/)). The data utilized includes: 
