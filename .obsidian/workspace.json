@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "464ad40be1543222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "4.Motion Interpolator/README.md",
                 "mode": "source",
                 "source": false
@@ -181,10 +195,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "555ee7aba66c6e12",
+  "active": "4c019d2e7029c66d",
   "lastOpenFiles": [
-    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/README.md",
     "4.Motion Interpolator/README.md",
+    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/README.md",
+    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/ECCV2022-RIFE/images/SAT.jpg",
+    "4.Motion Interpolator/images/jpg",
+    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/ECCV2022-RIFE/images/T3.png",
+    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/ECCV2022-RIFE/images/T2.png",
+    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/ECCV2022-RIFE/images/T1.png",
+    "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/ECCV2022-RIFE/images",
     "4.Motion Interpolator/4.RIFE-Deep_Learning_Model/ECCV2022-RIFE/README.md",
     "15. Trees/DS15.1 Binary Trees/DS15.1.3 Binary Search Trees/DS15.1.3.3.Searching_in_BST",
     "15. Trees/DS15.1 Binary Trees/DS15.1.3 Binary Search Trees/DS15.1.3.3.Searching_in_BST.c",
@@ -202,14 +222,8 @@
     "15. Trees/DS15.1 Binary Trees/DS15.1.3 Binary Search Trees/DS15.1.3.1.isBST.c",
     "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/DS15.1.2.4-BT Traversal Short Trick.md",
     "15. Trees/DS15.1 Binary Trees/DS15.1.3 Binary Search Trees",
-    "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/DS15.1.2.5.In_Pre_Post__isBST",
-    "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/DS15.1.2.5.In_Pre_Post__isBST.c",
     "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/Attachments/QR5-Whole.png",
     "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/Attachments/QR3-In.png",
-    "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/Attachments/ST.In1.png",
-    "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/Attachments/ST.In0.png",
-    "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/Attachments/ST.Post1.png",
-    "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/Attachments/ST.Post0.png",
     "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/DS15.1.2.0-Binary Tree Traversal.md",
     "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/DS15.1.2.3-Postorder Traversal.md",
     "15. Trees/DS15.1 Binary Trees/DS15.1.2 Traversal/DS15.1.2.2-Preorder Traversal.md",
@@ -228,7 +242,6 @@
     "14. Sorting Algorithms/DS14.9-Selection Sort.md",
     "14. Sorting Algorithms/DS14.6-Insertion Sort.md",
     "14. Sorting Algorithms/DS14.3-Bubble Sort.md",
-    "13. Space Complexity/DS13.0-Space Complexity.md",
     "Note Taking Methods/My Canva.canvas",
     "Untitled.canvas"
   ]

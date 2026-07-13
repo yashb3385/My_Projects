@@ -4,6 +4,8 @@
 ---
 Satellite images from geostationary satellites are often captured at fixed intervals (e.g., every 30 minutes for INSAT, or every 10 minutes for Himawari/GOES). This restricts near real-time monitoring of dynamic and fast-moving phenomena such as cyclones, thunderstorms, floods, and rapid land changes. Traditional optical-flow temporal interpolation methods are limited, often yielding incorrect results like blurred images and artifacts, failing to capture non-linear cloud dynamics. 
 
+![Alt Text](ECCV2022-RIFE/images/SAT.jpg)
+
 This project develops and uses an AI/ML-based Optical Flow frame interpolation technique to generate synthetic intermediate frames between consecutive satellite images. This effectively enhances temporal resolution (e.g., from 10 minutes to 5 or 2.5 minutes), enabling more frequent observations without requiring additional satellite resources.
 ## Dataset Links
 ---
